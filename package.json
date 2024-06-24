@@ -11,7 +11,7 @@
   "devDependencies": {
     "file-saver": "^2.0.5",
     "jszip": "^3.10.1",
-    "typescript": "^5.4.5",
+    "typescript": "^5.5.2",
     "vite": "^5.2.13",
     "vite-plugin-monkey": "^4.0.3"
   }
