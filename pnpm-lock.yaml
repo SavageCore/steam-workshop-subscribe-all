@@ -21,8 +21,8 @@ importers:
         specifier: ^5.3.4
         version: 5.3.4
       vite-plugin-monkey:
-        specifier: ^4.0.4
-        version: 4.0.4(vite@5.3.4)
+        specifier: ^4.0.6
+        version: 4.0.6(vite@5.3.4)
 
 packages:
 
@@ -513,8 +513,8 @@ packages:
   util-deprecate@1.0.2:
     resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
 
-  vite-plugin-monkey@4.0.4:
-    resolution: {integrity: sha512-U7G463yGr/IOOzadWwA3Z2CpQR4fvpb6xEO8chwtO1AR4OQUDSQu9s/UbAUNBufav3YDkb69d2LUZtfkTRIdsA==}
+  vite-plugin-monkey@4.0.6:
+    resolution: {integrity: sha512-JiJqlDhU/4xkAMDuJV/iR2QQXqQG+YGmSNubJTumcNQr4T+DQlQ7+VP6zbdAGDO/vVfSReDn+Ztr5bcFu0GIww==}
     peerDependencies:
       vite: ^5.0.0
     peerDependenciesMeta:
@@ -957,7 +957,7 @@ snapshots:
 
   util-deprecate@1.0.2: {}
 
-  vite-plugin-monkey@4.0.4(vite@5.3.4):
+  vite-plugin-monkey@4.0.6(vite@5.3.4):
     dependencies:
       acorn-walk: 8.3.2
       cross-spawn: 7.0.3
